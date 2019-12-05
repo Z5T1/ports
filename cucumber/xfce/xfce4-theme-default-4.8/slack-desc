@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                       |-----handy-ruler------------------------------------------------------|
+xfce4-theme-default-4.8: xfce4-theme-default-4.8 (the default theme for XFCE 4.8)
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8: This package provides the default theme from XFCE 4.8 for those who
+xfce4-theme-default-4.8: do not like the new default XFCE theme.
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
+xfce4-theme-default-4.8:
